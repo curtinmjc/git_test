@@ -1,3 +1,5 @@
 Big Mike...
 add some text to
 hello_world.txt
+
+let's add a bit more and do "git commit" from VSC.
